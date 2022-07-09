@@ -1,16 +1,21 @@
-h1{
+body{
     font-family: 'Montserrat', sans-serif;
+}
+h1{
     color: #0066FF;
     font-size: 60px;
-    margin-left: 125px;
-    margin-top: -700px;
+    margin-top: -450px;
 }
 h2{
-    font-family: 'Montserrat', sans-serif;
     color: #0066FF;
     font-size: 40px;
-    margin-left: 125px;
+    margin-top: -40px;
 }
 img{
-    margin-left: 700px;
+    margin-left: 850px;
+    margin-top: 50px;
+    
+}
+.purple-color{
+    color: #FA00FF;
 }
