@@ -4,17 +4,11 @@ body{
 h1{
     color: #0066FF;
     font-size: 60px;
-    margin-top: -450px;
+    
 }
 h2{
     color: #0066FF;
     font-size: 40px;
-    margin-top: -40px;
-}
-img{
-    margin-left: 850px;
-    margin-top: 50px;
-    
 }
 .purple-color{
     color: #FA00FF;
