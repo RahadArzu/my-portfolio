@@ -1,15 +1,28 @@
-body{
+body {
     font-family: 'Montserrat', sans-serif;
+    background-color: rgb(241, 241, 241);
 }
-h1{
+
+h1 {
     color: #0066FF;
     font-size: 60px;
-    
+
 }
-h2{
+
+h2 {
     color: #0066FF;
     font-size: 40px;
 }
-.purple-color{
+
+.purple-color {
     color: #FA00FF;
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 100%;
+    padding-left: 60px;
 }
