@@ -13,12 +13,15 @@ h2 {
     color: #0066FF;
     font-size: 40px;
 }
-h3{
+
+h3 {
     color: white;
 }
-p{
+
+p {
     color: #fff;
 }
+
 .purple-color {
     color: #FA00FF;
 }
@@ -55,7 +58,4 @@ section {
 .banner {
     background-image: url(images/banner.png);
     background-repeat: no-repeat;
-}
-.2nd-half{
-    padding-left: 60px;
 }
