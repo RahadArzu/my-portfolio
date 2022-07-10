@@ -1,4 +1,4 @@
 {
     "scss.completion.completePropertyWithSemicolon": true,
-    "html.validate.styles": true
+    "html.validate.styles": true,
 }
