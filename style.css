@@ -44,7 +44,9 @@ section {
     padding: 10px 25px 10px 25px;
     border-radius: 4px;
 }
-
+#2nd{
+    padding-left: 20px;
+}
 #Credit {
     text-decoration: none;
     color: #0066FF;
