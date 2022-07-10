@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0px;
 }
 
 h1 {
@@ -12,7 +13,12 @@ h2 {
     color: #0066FF;
     font-size: 40px;
 }
-
+h3{
+    color: white;
+}
+p{
+    color: #fff;
+}
 .purple-color {
     color: #FA00FF;
 }
@@ -25,7 +31,8 @@ section {
     width: 100%;
     padding-left: 60px;
 }
-.l-b{
+
+.l-b {
     color: #fff;
     text-decoration: none;
     font-size: 20px;
@@ -34,6 +41,18 @@ section {
     padding: 10px 25px 10px 25px;
     border-radius: 4px;
 }
-#Credit{
+
+#Credit {
     text-decoration: none;
+    color: #0066FF;
+}
+
+#Nokta {
+    margin-left: -175px;
+    margin-top: -100px;
+}
+
+.banner {
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
 }
