@@ -31,10 +31,13 @@ section {
 }
 
 .half {
-    width: 100%;
-    padding-left: 60px;
+    width: 80%;
+    padding-left: 55px;
 }
-
+#top{
+    padding-top: 50px;
+    
+}
 .l-b {
     color: #fff;
     text-decoration: none;
@@ -44,9 +47,7 @@ section {
     padding: 10px 25px 10px 25px;
     border-radius: 4px;
 }
-#2nd{
-    padding-left: 20px;
-}
+
 #Credit {
     text-decoration: none;
     color: #0066FF;
@@ -60,4 +61,8 @@ section {
 .banner {
     background-image: url(images/banner.png);
     background-repeat: no-repeat;
+}
+.sec-half-img{
+    padding-left: 55px;
+    width: 47%;
 }
