@@ -62,6 +62,13 @@ section {
     background-image: url(images/banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    display: flex;
+}
+.2nd-banner{
+    background-image: url(images/2nd-banner.png);
+    background-repeat: no-repeat;
+}
 .sec-half-img{
     padding-left: 55px;
     width: 47%;
