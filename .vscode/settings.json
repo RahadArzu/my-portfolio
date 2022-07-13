@@ -1,4 +1,5 @@
 {
     "scss.completion.completePropertyWithSemicolon": true,
     "html.validate.styles": true,
+    "editor.wordWrap": "on",
 }
