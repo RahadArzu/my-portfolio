@@ -40,7 +40,7 @@ p {
     
 }
 
-.l-b {
+.link-button {
     color: #fff;
     text-decoration: none;
     font-size: 20px;
@@ -72,7 +72,29 @@ p {
 
 .sec-banner{
     background-image: url(images/2nd-banner.png);
+    background-repeat: no-repeat;
 }
 .Experiences{
     background-image: url(images/3rd-ban.png);
+}
+
+.shadow{
+    box-shadow: 10px 10px 20px hsla(0, 0%, 0%, 0.26);
+    width: 80%;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+#uxui-designer{
+    border-left: 5px solid #0066FF;
+}
+
+#baby-programer{
+    border-left: 5px solid #FA00FF;
+}
+
+footer p{
+    text-align: center;
+    background-color: #181A1B;
 }
