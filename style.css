@@ -55,11 +55,6 @@ p {
     color: #0066FF;
 }
 
-#Nokta {
-    margin-left: -175px;
-    margin-top: -100px;
-}
-
 .banner {
     background-image: url(images/banner.png);
     background-repeat: no-repeat;
@@ -73,6 +68,7 @@ p {
 .sec-banner{
     background-image: url(images/2nd-banner.png);
     background-repeat: no-repeat;
+    margin: -5px;
 }
 .Experiences{
     background-image: url(images/3rd-ban.png);
@@ -96,5 +92,12 @@ p {
 
 footer p{
     text-align: center;
+    padding: 30px;
     background-color: #181A1B;
+}
+footer{
+    margin-top: -35px;
+    margin-bottom: -30px;
+    padding-top: 20px;
+    
 }
